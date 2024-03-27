@@ -5,6 +5,10 @@ In case of unavailability, the script sends an email notification to alert the u
 
 The script has been written to be easily configured into a cron job for automated periodic checks.
 
+
+![netping](https://github.com/the-universal-linux-society/netping/assets/161962528/e9a1edef-18f2-4e8e-82ea-9c7e69c3273d)
+
+
 ### Features:
 > Simple user interface for entering website/server URL.
 
