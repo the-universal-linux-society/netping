@@ -20,6 +20,8 @@ The script has been written to be easily configured into a cron job for automate
 
 > Lightweight & dependency-free.    
 
+![Screenshot from 2024-03-27 22-06-15](https://github.com/the-universal-linux-society/netping/assets/161962528/941c9664-78a7-4281-8122-38e23e9a9930)
+
 ### Usage:
 
 1. Clone the repo to your system.
